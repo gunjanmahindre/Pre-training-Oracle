@@ -4,7 +4,7 @@ This research project was documented for Knowledge Discovery from Databases (KDD
 
 
 ## Problem statement:
-We try to predict misisng distances in real-world social networks when only a fraction of distances are known.
+We try to predict missing distances in real-world social networks when only a fraction of distances are known.
 Neural network is pre-trained with artificial data and the right parameters for this pre-training data needs to be identified.
 
 
